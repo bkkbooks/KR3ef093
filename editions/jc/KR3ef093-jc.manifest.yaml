@@ -1,0 +1,504 @@
+canonical_identifier: bkk:krp/KR3ef093/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef093/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 曹氏傷寒金匱發微合刊
+  identifiers:
+    krp: KR3ef093
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef093.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef093_000-jc.yaml, hash: 'sha256:5b9cee26ec5a12697f005e2bc0b6c165012d07e967a951e722859a82dc727a1c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef093_000-jc.markers.yaml, hash: 'sha256:709f0eb0ac112a756770bf5fb4d1a77227d71f4c2da2e739a13368e2d31e39b3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d3.h1s1
+    span:
+    - front
+    - 0
+    - 1475
+  label: 秦伯未序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d6.h1s1
+    span:
+    - front
+    - 1475
+    - 1874
+  label: 丁仲英序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d7.h1s1
+    span:
+    - front
+    - 1874
+    - 2398
+  label: 沈石頑序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d8.h1s1
+    span:
+    - front
+    - 2398
+    - 2857
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d9.h1s1
+    span:
+    - front
+    - 2857
+    - 3471
+  label: 仲景原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d11.h1s1
+    span:
+    - front
+    - 3471
+    - 3909
+  label: 陸淵雷序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d12.h1s1
+    span:
+    - front
+    - 3909
+    - 4549
+  label: 許半龍序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d13.h1s1
+    span:
+    - front
+    - 4549
+    - 5116
+  label: 章次公序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 217
+  label: 內容提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d4.h1s1
+    span:
+    - body
+    - 217
+    - 2640
+  label: 再版前言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d5.h1s1
+    span:
+    - body
+    - 2640
+    - 3742
+  label: 曹穎甫先生傳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d10.h1s1
+    span:
+    - body
+    - 3742
+    - 4320
+  label: 凡例八則
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d14.h1s1
+    span:
+    - body
+    - 4320
+    - 129579
+  label: 傷寒發微
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d14d2
+    span:
+    - body
+    - 4324
+    - 62767
+  label: 太陽篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d14d3
+    span:
+    - body
+    - 62767
+    - 89328
+  label: 陽明篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d14d4
+    span:
+    - body
+    - 89328
+    - 92339
+  label: 少陽篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d14d5
+    span:
+    - body
+    - 92339
+    - 93830
+  label: 太陰篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d14d6
+    span:
+    - body
+    - 93830
+    - 106676
+  label: 少陰篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d14d7
+    span:
+    - body
+    - 106676
+    - 121365
+  label: 厥陰篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d14d8
+    span:
+    - body
+    - 121365
+    - 124000
+  label: 霍亂篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d14d9
+    span:
+    - body
+    - 124000
+    - 125689
+  label: 陰陽易差後勞復篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d14d10
+    span:
+    - body
+    - 125689
+    - 129185
+  label: 痙濕暍篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d14d11
+    span:
+    - body
+    - 129185
+    - 129579
+  label: 跋
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15.h1s1
+    span:
+    - body
+    - 129579
+    - 243546
+  label: 金匱發微
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d2
+    span:
+    - body
+    - 129583
+    - 138367
+  label: 藏府經絡先後病脈證第一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d3
+    span:
+    - body
+    - 138367
+    - 145059
+  label: 痙濕暍病脈證治第二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d4
+    span:
+    - body
+    - 145059
+    - 149433
+  label: 百合狐惑陰陽毒病證治第三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d5
+    span:
+    - body
+    - 149433
+    - 151842
+  label: 瘧病脈證並治第四
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d6
+    span:
+    - body
+    - 151842
+    - 158707
+  label: 中風歷節病脈並治第五
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d7
+    span:
+    - body
+    - 158707
+    - 164197
+  label: 血痹虛勞病脈證並治第六
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d8
+    span:
+    - body
+    - 164197
+    - 168792
+  label: 肺痿肺癰欬嗽上氣病脈證治第七
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d9
+    span:
+    - body
+    - 168792
+    - 169871
+  label: 奔豚氣病脈證第八
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d10
+    span:
+    - body
+    - 169871
+    - 172090
+  label: 胸痹心痛短氣病脈證治第九
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d11
+    span:
+    - body
+    - 172090
+    - 177251
+  label: 腹滿寒疝宿食病脈證治第十
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d12
+    span:
+    - body
+    - 177251
+    - 181833
+  label: 五藏風寒積聚病脈證並治第十一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d13
+    span:
+    - body
+    - 181833
+    - 190589
+  label: 痰飲欬嗽病脈證治第十二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d14
+    span:
+    - body
+    - 190589
+    - 193623
+  label: 消渴小便不利淋病脈證治第十三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d15
+    span:
+    - body
+    - 193623
+    - 205116
+  label: 水氣病脈證並治第十四
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d16
+    span:
+    - body
+    - 205116
+    - 210562
+  label: 黃癉病證並治第十五
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d17
+    span:
+    - body
+    - 210562
+    - 213528
+  label: 驚悸吐衄下血胸滿瘀血病脈證第十六
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d18
+    span:
+    - body
+    - 213528
+    - 224179
+  label: 嘔吐噦下利病脈證治第十七
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d19
+    span:
+    - body
+    - 224179
+    - 227000
+  label: 瘡癰腸癰浸淫病脈證治第十八
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d20
+    span:
+    - body
+    - 227000
+    - 228904
+  label: 趺蹶手指臂腫轉筋狐疝蚘蟲病脈證治第十九
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d21
+    span:
+    - body
+    - 228904
+    - 232458
+  label: 婦人妊娠病脈證治第二十
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d22
+    span:
+    - body
+    - 232458
+    - 236054
+  label: 婦人產後病脈證治第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d23
+    span:
+    - body
+    - 236054
+    - 243341
+  label: 婦人雜病脈證治第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d15d24
+    span:
+    - body
+    - 243341
+    - 243546
+  label: 跋
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef093_jc_000-d16.h1s1
+    span:
+    - body
+    - 243546
+    - 244022
+  label: 重刊傷寒金匱發微跋
+  type: section
+  level: 1
+hash: sha256:ccb9cd0579563b04f389024d91194bc69b5d344d7c314ed5f0b5723900492b02
