@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef093_000.yaml, hash: 'sha256:bd221048fe0d856f39813a6ed77cfbb35a38750cbe5e6bef9a33c2f1af77588e'}
+  - {seq: 0, filename: KR3ef093_000.yaml, hash: 'sha256:5b9cee26ec5a12697f005e2bc0b6c165012d07e967a951e722859a82dc727a1c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef093_000.markers.yaml, hash: 'sha256:43714cb6d16d51afcf286612185ae4a70b3e46e15ab38651a239aa6c272590eb'}
+  - {seq: 0, role: markers, filename: assets/KR3ef093_000.markers.yaml, hash: 'sha256:9b051f3a7952b4af288b4b404b4f2527283e7d25407792dcb008d631d397f993'}
 table_of_contents:
 - ref:
     seq: 0
@@ -501,7 +501,4 @@ table_of_contents:
   label: 重刊傷寒金匱發微跋
   type: section
   level: 1
-hash: sha256:4520b1dea0ba23dd442472b558da0fd34720edaf1168100fdede89bb2525309e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:adfda2f017a16ecfa8fa4cbe53765c3e136ce10fcefcef847bd4bb5dd8c5df13
