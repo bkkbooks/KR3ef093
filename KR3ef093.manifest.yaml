@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ef093/v1
 canonical_location: https://kanripo.org/bkk/KR3ef093/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 曹氏傷寒金匱發微合刊
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ef093_000.yaml, hash: 'sha256:5b9cee26ec5a12697f005e2bc0b6c165012d07e967a951e722859a82dc727a1c'}
+  - {seq: 0, filename: KR3ef093_000.yaml, hash: 'sha256:d7c44d8b9b51cd025ea613ae61b91519485e879dc47df372b75456ffc416c76d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef093_000.markers.yaml, hash: 'sha256:9b051f3a7952b4af288b4b404b4f2527283e7d25407792dcb008d631d397f993'}
+  - {seq: 0, role: markers, filename: assets/KR3ef093_000.markers.yaml, hash: 'sha256:6f17a13c2d62f34835177a3e8df03df54f4b3a5e5b47f3a441b241d9db2dda94'}
 table_of_contents:
 - ref:
     seq: 0
@@ -501,4 +501,7 @@ table_of_contents:
   label: 重刊傷寒金匱發微跋
   type: section
   level: 1
-hash: sha256:adfda2f017a16ecfa8fa4cbe53765c3e136ce10fcefcef847bd4bb5dd8c5df13
+hash: sha256:ffff8c40b587bf6d6c37adb79da9bb5da6b9b83245999df6ffdc7af9ba025984
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
