@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ef093_000-jc.yaml, hash: 'sha256:5b9cee26ec5a12697f005e2bc0b6c165012d07e967a951e722859a82dc727a1c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef093_000-jc.markers.yaml, hash: 'sha256:709f0eb0ac112a756770bf5fb4d1a77227d71f4c2da2e739a13368e2d31e39b3'}
+  - {seq: 0, role: markers, filename: assets/KR3ef093_000-jc.markers.yaml, hash: 'sha256:3b5bae9d4b370aa1d5b37dccf5999fd1f004ea9de908b1074db233ca03fb4933'}
 table_of_contents:
 - ref:
     seq: 0
@@ -501,4 +501,4 @@ table_of_contents:
   label: 重刊傷寒金匱發微跋
   type: section
   level: 1
-hash: sha256:ccb9cd0579563b04f389024d91194bc69b5d344d7c314ed5f0b5723900492b02
+hash: sha256:f7c854a2dd321ebfcfdd85f3ca6175f9c0bc53be7df03941cdf7ce220035a94c
